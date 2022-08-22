@@ -1,4 +1,4 @@
 # 2CheckPort
 
-#Steps:
+## Steps:
 1. Open master/builds/CheckPort.jar
